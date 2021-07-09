@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sharathgowda815
 - 👀 I’m interested in Cloud Computing related stuff and development
-- 🌱 I’m currently learning Web Development, Cloud Devolopment (AWS) and some some general purpose applications
+- 🌱 I’m currently working on Blockchain Technology (Hyperledger Grid on Sawtooth) as a intern at Konnect2digital Services
 - 💞️ I’m looking to collaborate on any Projects related to above mentioned interests and my learnings
 - 📫 How to reach me ...
 -    e-mail: gowdasharath815@gmail.com
